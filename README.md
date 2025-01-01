@@ -6,7 +6,6 @@
 ### 🚀 Sobre mim
 
 - 💻 Desenvolvedor Java em atuação **desde junho de 2022**.
-- 🎓 Estudando **Microsserviços** e aprimorando conhecimentos em **Spring Boot**.
 - 🌎 Florianópolis, Santa Catarina.
 
 ---
